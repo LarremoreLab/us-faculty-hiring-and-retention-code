@@ -1,0 +1,910 @@
+Percentile,MeanFractionalPathLength,TaxonomyLevel,TaxonomyValue
+0.0,0.3278644982020267,Academia,Academia
+0.01,0.3289393734809613,Academia,Academia
+0.02,0.33161132345914945,Academia,Academia
+0.03,0.33378623188405787,Academia,Academia
+0.04,0.33519820971867,Academia,Academia
+0.05,0.3373231538992407,Academia,Academia
+0.06,0.3391598119858989,Academia,Academia
+0.07,0.3446470538861842,Academia,Academia
+0.08,0.3503385955831608,Academia,Academia
+0.09,0.3493998657042135,Academia,Academia
+0.1,0.35090020144367967,Academia,Academia
+0.11,0.3506297446514838,Academia,Academia
+0.12,0.35062741312741313,Academia,Academia
+0.13,0.35321890213194557,Academia,Academia
+0.14,0.3524521221532091,Academia,Academia
+0.15,0.35378546248111464,Academia,Academia
+0.16,0.35338677186503265,Academia,Academia
+0.17,0.35143849206349204,Academia,Academia
+0.18,0.3484031391640086,Academia,Academia
+0.19,0.35673367466845723,Academia,Academia
+0.2,0.3583290200138026,Academia,Academia
+0.21,0.3637946953164344,Academia,Academia
+0.22,0.3651271613228134,Academia,Academia
+0.23,0.3641520013802622,Academia,Academia
+0.24,0.36723602484472045,Academia,Academia
+0.25,0.37212523082088295,Academia,Academia
+0.26,0.3727355072463767,Academia,Academia
+0.27,0.3718524425046164,Academia,Academia
+0.28,0.37263933187846227,Academia,Academia
+0.29,0.3712042788129744,Academia,Academia
+0.3,0.37325835151922104,Academia,Academia
+0.31,0.3722091656874265,Academia,Academia
+0.32,0.3776203416149067,Academia,Academia
+0.33,0.38125314755749534,Academia,Academia
+0.34,0.38320463320463316,Academia,Academia
+0.35000000000000003,0.38249439268461005,Academia,Academia
+0.36,0.3877266241396676,Academia,Academia
+0.37,0.3914512338425382,Academia,Academia
+0.38,0.3965665976535541,Academia,Academia
+0.39,0.3968335571596441,Academia,Academia
+0.4,0.3959522410609367,Academia,Academia
+0.41000000000000003,0.3976664941338854,Academia,Academia
+0.42,0.3979037267080745,Academia,Academia
+0.43,0.3964138828269263,Academia,Academia
+0.44,0.3985291580400276,Academia,Academia
+0.45,0.3978498102139406,Academia,Academia
+0.46,0.3973645617667356,Academia,Academia
+0.47000000000000003,0.407564330079858,Academia,Academia
+0.48,0.40788906142167003,Academia,Academia
+0.49,0.40795376121463073,Academia,Academia
+0.5,0.40980087687248806,Academia,Academia
+0.51,0.4084183673469387,Academia,Academia
+0.52,0.40679902395740897,Academia,Academia
+0.53,0.4071405736207526,Academia,Academia
+0.54,0.4068322981366459,Academia,Academia
+0.55,0.4059480676328502,Academia,Academia
+0.56,0.40612244897959177,Academia,Academia
+0.5700000000000001,0.3993594720496894,Academia,Academia
+0.58,0.4035541752933057,Academia,Academia
+0.59,0.40560115350488013,Academia,Academia
+0.6,0.40504868222259527,Academia,Academia
+0.61,0.4090355883834144,Academia,Academia
+0.62,0.4094634230503796,Academia,Academia
+0.63,0.4145438140003357,Academia,Academia
+0.64,0.41953793855967764,Academia,Academia
+0.65,0.4194918909592822,Academia,Academia
+0.66,0.4209753231492362,Academia,Academia
+0.67,0.4202618767836159,Academia,Academia
+0.68,0.4210339026915114,Academia,Academia
+0.6900000000000001,0.41906580493537016,Academia,Academia
+0.7000000000000001,0.4233674668457276,Academia,Academia
+0.71,0.4235140614216701,Academia,Academia
+0.72,0.42390255161994295,Academia,Academia
+0.73,0.42182108350586606,Academia,Academia
+0.74,0.417790594498669,Academia,Academia
+0.75,0.42230633195307105,Academia,Academia
+0.76,0.42210144927536225,Academia,Academia
+0.77,0.4280501330967169,Academia,Academia
+0.78,0.42639320220841953,Academia,Academia
+0.79,0.42902432712215316,Academia,Academia
+0.8,0.4288930789707187,Academia,Academia
+0.81,0.43141821946169767,Academia,Academia
+0.8200000000000001,0.435904071773637,Academia,Academia
+0.8300000000000001,0.45190648723257415,Academia,Academia
+0.84,0.45455917874396135,Academia,Academia
+0.85,0.4576000690131124,Academia,Academia
+0.86,0.45905057675244004,Academia,Academia
+0.87,0.4628515355417529,Academia,Academia
+0.88,0.46251725327812276,Academia,Academia
+0.89,0.46421916592724044,Academia,Academia
+0.9,0.4703135783298826,Academia,Academia
+0.91,0.47435731538992404,Academia,Academia
+0.92,0.4813664596273291,Academia,Academia
+0.93,0.4696342305037956,Academia,Academia
+0.9400000000000001,0.4695421353030048,Academia,Academia
+0.9500000000000001,0.47434653209109723,Academia,Academia
+0.96,0.4790372670807453,Academia,Academia
+0.97,0.4755568644249303,Academia,Academia
+0.98,0.4826863354037267,Academia,Academia
+0.99,0.4892010163749294,Academia,Academia
+1.0,0.4886128364389233,Academia,Academia
+0.0,0.3600288600288599,Umbrella,Applied Sciences
+0.01,0.3603479853479853,Umbrella,Applied Sciences
+0.02,0.3607804232804232,Umbrella,Applied Sciences
+0.03,0.36405055849500284,Umbrella,Applied Sciences
+0.04,0.3630621693121692,Umbrella,Applied Sciences
+0.05,0.36397707231040555,Umbrella,Applied Sciences
+0.06,0.3659611992945325,Umbrella,Applied Sciences
+0.07,0.36662257495590816,Umbrella,Applied Sciences
+0.08,0.3653628117913831,Umbrella,Applied Sciences
+0.09,0.3658008658008657,Umbrella,Applied Sciences
+0.1,0.3635161135161134,Umbrella,Applied Sciences
+0.11,0.36264430014430005,Umbrella,Applied Sciences
+0.12,0.3605127236079616,Umbrella,Applied Sciences
+0.13,0.3627802973041067,Umbrella,Applied Sciences
+0.14,0.3636306374401611,Umbrella,Applied Sciences
+0.15,0.3617409926933735,Umbrella,Applied Sciences
+0.16,0.36087061087061073,Umbrella,Applied Sciences
+0.17,0.3637566137566136,Umbrella,Applied Sciences
+0.18,0.3658309283309283,Umbrella,Applied Sciences
+0.19,0.37216553287981846,Umbrella,Applied Sciences
+0.2,0.3744646006550767,Umbrella,Applied Sciences
+0.21,0.37796044343663376,Umbrella,Applied Sciences
+0.22,0.38017075517075505,Umbrella,Applied Sciences
+0.23,0.3760822510822509,Umbrella,Applied Sciences
+0.24,0.37770562770562754,Umbrella,Applied Sciences
+0.25,0.3774880322499369,Umbrella,Applied Sciences
+0.26,0.3802910052910052,Umbrella,Applied Sciences
+0.27,0.3789367598891407,Umbrella,Applied Sciences
+0.28,0.3781494079113126,Umbrella,Applied Sciences
+0.29,0.37836700336700324,Umbrella,Applied Sciences
+0.3,0.38098244348244337,Umbrella,Applied Sciences
+0.31,0.3809223184223183,Umbrella,Applied Sciences
+0.32,0.38287351977828155,Umbrella,Applied Sciences
+0.33,0.3835978835978835,Umbrella,Applied Sciences
+0.34,0.3820861678004534,Umbrella,Applied Sciences
+0.35000000000000003,0.38517258755353984,Umbrella,Applied Sciences
+0.36,0.38711519961519947,Umbrella,Applied Sciences
+0.37,0.3884379509379508,Umbrella,Applied Sciences
+0.38,0.3890993265993265,Umbrella,Applied Sciences
+0.39,0.3891408415217938,Umbrella,Applied Sciences
+0.4,0.3926996724615771,Umbrella,Applied Sciences
+0.41000000000000003,0.3973607961703199,Umbrella,Applied Sciences
+0.42,0.3995310245310244,Umbrella,Applied Sciences
+0.43,0.40382996632996626,Umbrella,Applied Sciences
+0.44,0.4089405964405963,Umbrella,Applied Sciences
+0.45,0.41169060216679254,Umbrella,Applied Sciences
+0.46,0.4146825396825396,Umbrella,Applied Sciences
+0.47000000000000003,0.4184618291761148,Umbrella,Applied Sciences
+0.48,0.43033509700176353,Umbrella,Applied Sciences
+0.49,0.43211880711880696,Umbrella,Applied Sciences
+0.5,0.431156806156806,Umbrella,Applied Sciences
+0.51,0.43097643097643085,Umbrella,Applied Sciences
+0.52,0.4375157470395564,Umbrella,Applied Sciences
+0.53,0.4372008062484251,Umbrella,Applied Sciences
+0.54,0.4419879062736204,Umbrella,Applied Sciences
+0.55,0.4386123136123135,Umbrella,Applied Sciences
+0.56,0.4413780663780662,Umbrella,Applied Sciences
+0.5700000000000001,0.44113756613756605,Umbrella,Applied Sciences
+0.58,0.4356361231361231,Umbrella,Applied Sciences
+0.59,0.44554673721340377,Umbrella,Applied Sciences
+0.6,0.4508692365835221,Umbrella,Applied Sciences
+0.61,0.45168808264046345,Umbrella,Applied Sciences
+0.62,0.4491370622323002,Umbrella,Applied Sciences
+0.63,0.45622323003275367,Umbrella,Applied Sciences
+0.64,0.45272738725119677,Umbrella,Applied Sciences
+0.65,0.45426587301587296,Umbrella,Applied Sciences
+0.66,0.45975529100529094,Umbrella,Applied Sciences
+0.67,0.45952380952380945,Umbrella,Applied Sciences
+0.68,0.4591931216931216,Umbrella,Applied Sciences
+0.6900000000000001,0.4480662635424539,Umbrella,Applied Sciences
+0.7000000000000001,0.44611363063744003,Umbrella,Applied Sciences
+0.71,0.4454837490551775,Umbrella,Applied Sciences
+0.72,0.45108969513731406,Umbrella,Applied Sciences
+0.73,0.44857016880826384,Umbrella,Applied Sciences
+0.74,0.45095899470899453,Umbrella,Applied Sciences
+0.75,0.46316137566137555,Umbrella,Applied Sciences
+0.76,0.46327790375409406,Umbrella,Applied Sciences
+0.77,0.46765558075081876,Umbrella,Applied Sciences
+0.78,0.4692617787855883,Umbrella,Applied Sciences
+0.79,0.47562830687830676,Umbrella,Applied Sciences
+0.8,0.4874999999999999,Umbrella,Applied Sciences
+0.81,0.4928989139515455,Umbrella,Applied Sciences
+0.8200000000000001,0.500429894179894,Umbrella,Applied Sciences
+0.8300000000000001,0.505324074074074,Umbrella,Applied Sciences
+0.84,0.5043320105820105,Umbrella,Applied Sciences
+0.85,0.4992724867724867,Umbrella,Applied Sciences
+0.86,0.5036549707602338,Umbrella,Applied Sciences
+0.87,0.5110345307713727,Umbrella,Applied Sciences
+0.88,0.5177836566725454,Umbrella,Applied Sciences
+0.89,0.5298721340388006,Umbrella,Applied Sciences
+0.9,0.5276221599751011,Umbrella,Applied Sciences
+0.91,0.526882975412387,Umbrella,Applied Sciences
+0.92,0.5169064153439152,Umbrella,Applied Sciences
+0.93,0.5171957671957671,Umbrella,Applied Sciences
+0.9400000000000001,0.5220616024187452,Umbrella,Applied Sciences
+0.9500000000000001,0.527006172839506,Umbrella,Applied Sciences
+0.96,0.5291666666666665,Umbrella,Applied Sciences
+0.97,0.5268683862433862,Umbrella,Applied Sciences
+0.98,0.5239040060468632,Umbrella,Applied Sciences
+0.99,0.5026455026455025,Umbrella,Applied Sciences
+1.0,0.48495370370370355,Umbrella,Applied Sciences
+0.0,0.4427766032417196,Umbrella,Education
+0.01,0.44341085271317826,Umbrella,Education
+0.02,0.4454780361757105,Umbrella,Education
+0.03,0.44599483204134366,Umbrella,Education
+0.04,0.4475581395348837,Umbrella,Education
+0.05,0.4491694352159468,Umbrella,Education
+0.06,0.4522332964193429,Umbrella,Education
+0.07,0.45308231819859723,Umbrella,Education
+0.08,0.45334071613141386,Umbrella,Education
+0.09,0.4502399409376154,Umbrella,Education
+0.1,0.4538407329105004,Umbrella,Education
+0.11,0.4515856236786469,Umbrella,Education
+0.12,0.4511980267794221,Umbrella,Education
+0.13,0.45112587670727206,Umbrella,Education
+0.14,0.45286083425618306,Umbrella,Education
+0.15,0.452454780361757,Umbrella,Education
+0.16,0.4512366186784792,Umbrella,Education
+0.17,0.4553911205073996,Umbrella,Education
+0.18,0.4591261451726569,Umbrella,Education
+0.19,0.46391825229034533,Umbrella,Education
+0.2,0.467109634551495,Umbrella,Education
+0.21,0.47918050941306756,Umbrella,Education
+0.22,0.4822443706164636,Umbrella,Education
+0.23,0.48914728682170544,Umbrella,Education
+0.24,0.4877730796335447,Umbrella,Education
+0.25,0.49520789288231143,Umbrella,Education
+0.26,0.499154334038055,Umbrella,Education
+0.27,0.504282022886674,Umbrella,Education
+0.28,0.5140273163528977,Umbrella,Education
+0.29,0.5119970468807677,Umbrella,Education
+0.3,0.5077150239940937,Umbrella,Education
+0.31,0.5003875968992247,Umbrella,Education
+0.32,0.5007047216349542,Umbrella,Education
+0.33,0.5003171247357294,Umbrella,Education
+0.34,0.5036913990402363,Umbrella,Education
+0.35000000000000003,0.502547065337763,Umbrella,Education
+0.36,0.5004798818752307,Umbrella,Education
+0.37,0.49815430047988196,Umbrella,Education
+0.38,0.49157857646229736,Umbrella,Education
+0.39,0.4894291754756871,Umbrella,Education
+0.4,0.495877378435518,Umbrella,Education
+0.41000000000000003,0.508342561830934,Umbrella,Education
+0.42,0.5094130675526024,Umbrella,Education
+0.43,0.5085271317829457,Umbrella,Education
+0.44,0.508859357696567,Umbrella,Education
+0.45,0.5060169804355851,Umbrella,Education
+0.46,0.5076814658210006,Umbrella,Education
+0.47000000000000003,0.5119450317124735,Umbrella,Education
+0.48,0.5166482096714655,Umbrella,Education
+0.49,0.5276854928017719,Umbrella,Education
+0.5,0.5375415282392026,Umbrella,Education
+0.51,0.5280915466961978,Umbrella,Education
+0.52,0.5351790328534514,Umbrella,Education
+0.53,0.5334038054968288,Umbrella,Education
+0.54,0.5352713178294572,Umbrella,Education
+0.55,0.5404946474713916,Umbrella,Education
+0.56,0.5406053894425987,Umbrella,Education
+0.5700000000000001,0.5412329272794388,Umbrella,Education
+0.58,0.5392395717977114,Umbrella,Education
+0.59,0.5441860465116279,Umbrella,Education
+0.6,0.5398167723749119,Umbrella,Education
+0.61,0.5475821336286452,Umbrella,Education
+0.62,0.5427464008859357,Umbrella,Education
+0.63,0.5564728682170542,Umbrella,Education
+0.64,0.5611627906976744,Umbrella,Education
+0.65,0.568953488372093,Umbrella,Education
+0.66,0.571705426356589,Umbrella,Education
+0.67,0.5702842377260983,Umbrella,Education
+0.68,0.5741971207087486,Umbrella,Education
+0.6900000000000001,0.5649317091177556,Umbrella,Education
+0.7000000000000001,0.5702713178294574,Umbrella,Education
+0.71,0.5632705795496493,Umbrella,Education
+0.72,0.5792174234034699,Umbrella,Education
+0.73,0.5768180140273164,Umbrella,Education
+0.74,0.5805144467935166,Umbrella,Education
+0.75,0.5783650458069063,Umbrella,Education
+0.76,0.5856773717238832,Umbrella,Education
+0.77,0.5958792329661362,Umbrella,Education
+0.78,0.6015503875968992,Umbrella,Education
+0.79,0.605548755609955,Umbrella,Education
+0.8,0.5999184006527948,Umbrella,Education
+0.81,0.6124418604651163,Umbrella,Education
+0.8200000000000001,0.6065503875968993,Umbrella,Education
+0.8300000000000001,0.6079242032730404,Umbrella,Education
+0.84,0.6032831737346102,Umbrella,Education
+0.85,0.6193798449612402,Umbrella,Education
+0.86,0.6159345391903532,Umbrella,Education
+0.87,0.6154222766217871,Umbrella,Education
+0.88,0.6160852713178294,Umbrella,Education
+0.89,0.618563851489188,Umbrella,Education
+0.9,0.6300602928509904,Umbrella,Education
+0.91,0.6359980620155039,Umbrella,Education
+0.92,0.6285852713178295,Umbrella,Education
+0.93,0.6307797537619699,Umbrella,Education
+0.9400000000000001,0.6413953488372093,Umbrella,Education
+0.9500000000000001,0.6437984496124031,Umbrella,Education
+0.96,0.6516795865633075,Umbrella,Education
+0.97,0.6573643410852713,Umbrella,Education
+0.98,0.6733111849390919,Umbrella,Education
+0.99,0.6870801033591731,Umbrella,Education
+1.0,0.673953488372093,Umbrella,Education
+0.0,0.4149130190796857,Umbrella,Engineering
+0.01,0.4132834757834758,Umbrella,Engineering
+0.02,0.4105902777777778,Umbrella,Engineering
+0.03,0.4105366941015089,Umbrella,Engineering
+0.04,0.4149305555555556,Umbrella,Engineering
+0.05,0.4105673133450911,Umbrella,Engineering
+0.06,0.4121840094062316,Umbrella,Engineering
+0.07,0.41560111699000585,Umbrella,Engineering
+0.08,0.4131760728982951,Umbrella,Engineering
+0.09,0.4117915263748597,Umbrella,Engineering
+0.1,0.41084455667789005,Umbrella,Engineering
+0.11,0.41280864197530864,Umbrella,Engineering
+0.12,0.4191651969429747,Umbrella,Engineering
+0.13,0.4210390946502057,Umbrella,Engineering
+0.14,0.41986331569664903,Umbrella,Engineering
+0.15,0.42754262198706644,Umbrella,Engineering
+0.16,0.4337471941638608,Umbrella,Engineering
+0.17,0.43080106621773284,Umbrella,Engineering
+0.18,0.4339576318742986,Umbrella,Engineering
+0.19,0.434891240446796,Umbrella,Engineering
+0.2,0.43805114638447973,Umbrella,Engineering
+0.21,0.44539976484420934,Umbrella,Engineering
+0.22,0.44556677890011226,Umbrella,Engineering
+0.23,0.44679433221099896,Umbrella,Engineering
+0.24,0.4487233445566779,Umbrella,Engineering
+0.25,0.44896384479717816,Umbrella,Engineering
+0.26,0.4453630217519106,Umbrella,Engineering
+0.27,0.4552101704879483,Umbrella,Engineering
+0.28,0.4570840681951793,Umbrella,Engineering
+0.29,0.46047278338945,Umbrella,Engineering
+0.3,0.46229657687991027,Umbrella,Engineering
+0.31,0.4633487654320988,Umbrella,Engineering
+0.32,0.4632569077013521,Umbrella,Engineering
+0.33,0.4685479129923574,Umbrella,Engineering
+0.34,0.4721119929453263,Umbrella,Engineering
+0.35000000000000003,0.4772560258671369,Umbrella,Engineering
+0.36,0.4807800224466891,Umbrella,Engineering
+0.37,0.47923681257014583,Umbrella,Engineering
+0.38,0.48039421997755327,Umbrella,Engineering
+0.39,0.483722810111699,Umbrella,Engineering
+0.4,0.48578042328042326,Umbrella,Engineering
+0.41000000000000003,0.4846046443268666,Umbrella,Engineering
+0.42,0.4851992143658811,Umbrella,Engineering
+0.43,0.4833754208754209,Umbrella,Engineering
+0.44,0.4797278338945005,Umbrella,Engineering
+0.45,0.47619047619047616,Umbrella,Engineering
+0.46,0.4754556143445033,Umbrella,Engineering
+0.47000000000000003,0.47582304526748964,Umbrella,Engineering
+0.48,0.4758965314520871,Umbrella,Engineering
+0.49,0.48042929292929293,Umbrella,Engineering
+0.5,0.478395061728395,Umbrella,Engineering
+0.51,0.4762205387205387,Umbrella,Engineering
+0.52,0.47997501469723697,Umbrella,Engineering
+0.53,0.48012198706643144,Umbrella,Engineering
+0.54,0.48578042328042326,Umbrella,Engineering
+0.55,0.5027356902356902,Umbrella,Engineering
+0.56,0.5064183501683501,Umbrella,Engineering
+0.5700000000000001,0.5084175084175084,Umbrella,Engineering
+0.58,0.5126964085297419,Umbrella,Engineering
+0.59,0.5127498530276309,Umbrella,Engineering
+0.6,0.5171222810111699,Umbrella,Engineering
+0.61,0.5214212228101117,Umbrella,Engineering
+0.62,0.5185535914702581,Umbrella,Engineering
+0.63,0.5212892817059483,Umbrella,Engineering
+0.64,0.5208333333333334,Umbrella,Engineering
+0.65,0.5072751322751323,Umbrella,Engineering
+0.66,0.5151748971193416,Umbrella,Engineering
+0.67,0.5158362727807172,Umbrella,Engineering
+0.68,0.5261978248089358,Umbrella,Engineering
+0.6900000000000001,0.5347572951739618,Umbrella,Engineering
+0.7000000000000001,0.5374579124579124,Umbrella,Engineering
+0.71,0.5379138608305275,Umbrella,Engineering
+0.72,0.542364785420341,Umbrella,Engineering
+0.73,0.546957671957672,Umbrella,Engineering
+0.74,0.5472148736037624,Umbrella,Engineering
+0.75,0.5527998236331569,Umbrella,Engineering
+0.76,0.551440329218107,Umbrella,Engineering
+0.77,0.5551881246325691,Umbrella,Engineering
+0.78,0.5458553791887125,Umbrella,Engineering
+0.79,0.5426311728395061,Umbrella,Engineering
+0.8,0.5412808641975307,Umbrella,Engineering
+0.81,0.5439429012345678,Umbrella,Engineering
+0.8200000000000001,0.5532774838330393,Umbrella,Engineering
+0.8300000000000001,0.557172251616696,Umbrella,Engineering
+0.84,0.5618441358024692,Umbrella,Engineering
+0.85,0.5643904320987654,Umbrella,Engineering
+0.86,0.5666666666666667,Umbrella,Engineering
+0.87,0.5802469135802468,Umbrella,Engineering
+0.88,0.5837577160493828,Umbrella,Engineering
+0.89,0.5958333333333333,Umbrella,Engineering
+0.9,0.6063190383365821,Umbrella,Engineering
+0.91,0.6123366013071896,Umbrella,Engineering
+0.92,0.6181657848324515,Umbrella,Engineering
+0.93,0.6212013295346629,Umbrella,Engineering
+0.9400000000000001,0.6271367521367521,Umbrella,Engineering
+0.9500000000000001,0.6343995510662178,Umbrella,Engineering
+0.96,0.6427469135802469,Umbrella,Engineering
+0.97,0.6320546737213404,Umbrella,Engineering
+0.98,0.653858024691358,Umbrella,Engineering
+0.99,0.6381172839506173,Umbrella,Engineering
+1.0,0.6346450617283951,Umbrella,Engineering
+0.0,0.29256112104949317,Umbrella,Humanities
+0.01,0.2922722868217054,Umbrella,Humanities
+0.02,0.29608096468561584,Umbrella,Humanities
+0.03,0.2975729051310447,Umbrella,Humanities
+0.04,0.3016795865633075,Umbrella,Humanities
+0.05,0.3019573643410853,Umbrella,Humanities
+0.06,0.30730098389982113,Umbrella,Humanities
+0.07,0.30862403100775193,Umbrella,Humanities
+0.08,0.30836314847942753,Umbrella,Humanities
+0.09,0.3112015503875969,Umbrella,Humanities
+0.1,0.31106514609421587,Umbrella,Humanities
+0.11,0.31419573643410853,Umbrella,Humanities
+0.12,0.313152206320811,Umbrella,Humanities
+0.13,0.3149597495527728,Umbrella,Humanities
+0.14,0.31608527131782943,Umbrella,Humanities
+0.15,0.321724060822898,Umbrella,Humanities
+0.16,0.3198062015503876,Umbrella,Humanities
+0.17,0.3220408467501491,Umbrella,Humanities
+0.18,0.32599135360763265,Umbrella,Humanities
+0.19,0.3247614788312463,Umbrella,Humanities
+0.2,0.32738893858079904,Umbrella,Humanities
+0.21,0.32753875968992247,Umbrella,Humanities
+0.22,0.33044499105545616,Umbrella,Humanities
+0.23,0.33277131782945735,Umbrella,Humanities
+0.24,0.3321593619558736,Umbrella,Humanities
+0.25,0.3331283542039356,Umbrella,Humanities
+0.26,0.3359235241502683,Umbrella,Humanities
+0.27,0.3381782945736434,Umbrella,Humanities
+0.28,0.3408527131782946,Umbrella,Humanities
+0.29,0.3457252534287418,Umbrella,Humanities
+0.3,0.34854651162790695,Umbrella,Humanities
+0.31,0.3538871496720334,Umbrella,Humanities
+0.32,0.35612328562909956,Umbrella,Humanities
+0.33,0.3575767740011926,Umbrella,Humanities
+0.34,0.35843395945140133,Umbrella,Humanities
+0.35000000000000003,0.35903100775193797,Umbrella,Humanities
+0.36,0.3604092128801431,Umbrella,Humanities
+0.37,0.3783720930232558,Umbrella,Humanities
+0.38,0.3820251937984496,Umbrella,Humanities
+0.39,0.3844186046511628,Umbrella,Humanities
+0.4,0.3849418604651163,Umbrella,Humanities
+0.41000000000000003,0.3846317829457364,Umbrella,Humanities
+0.42,0.38702814290529153,Umbrella,Humanities
+0.43,0.3939760981912145,Umbrella,Humanities
+0.44,0.39852965958881026,Umbrella,Humanities
+0.45,0.39900274547803616,Umbrella,Humanities
+0.46,0.4109159083249073,Umbrella,Humanities
+0.47000000000000003,0.39555948769801147,Umbrella,Humanities
+0.48,0.3929684866868891,Umbrella,Humanities
+0.49,0.39115689248399055,Umbrella,Humanities
+0.5,0.39151324289405687,Umbrella,Humanities
+0.51,0.39558055274688236,Umbrella,Humanities
+0.52,0.3941279069767442,Umbrella,Humanities
+0.53,0.3878997093023256,Umbrella,Humanities
+0.54,0.38844476744186046,Umbrella,Humanities
+0.55,0.387374838501292,Umbrella,Humanities
+0.56,0.38152051033591733,Umbrella,Humanities
+0.5700000000000001,0.3877325581395349,Umbrella,Humanities
+0.58,0.39421834625323,Umbrella,Humanities
+0.59,0.395671834625323,Umbrella,Humanities
+0.6,0.40010953825412876,Umbrella,Humanities
+0.61,0.39836113919784294,Umbrella,Humanities
+0.62,0.40133131108864173,Umbrella,Humanities
+0.63,0.40358527131782945,Umbrella,Humanities
+0.64,0.4055864509605662,Umbrella,Humanities
+0.65,0.4144644115574348,Umbrella,Humanities
+0.66,0.42212825933756165,Umbrella,Humanities
+0.67,0.4180320648343904,Umbrella,Humanities
+0.68,0.41913528977482467,Umbrella,Humanities
+0.6900000000000001,0.4268410852713178,Umbrella,Humanities
+0.7000000000000001,0.4362667371388302,Umbrella,Humanities
+0.71,0.43912200876306035,Umbrella,Humanities
+0.72,0.4441508104298802,Umbrella,Humanities
+0.73,0.44306117290192115,Umbrella,Humanities
+0.74,0.4468107516009437,Umbrella,Humanities
+0.75,0.44702140208965285,Umbrella,Humanities
+0.76,0.4583535206718346,Umbrella,Humanities
+0.77,0.4666389811738649,Umbrella,Humanities
+0.78,0.4635012919896641,Umbrella,Humanities
+0.79,0.46656976744186046,Umbrella,Humanities
+0.8,0.45704941860465115,Umbrella,Humanities
+0.81,0.46446220930232557,Umbrella,Humanities
+0.8200000000000001,0.4670797633618931,Umbrella,Humanities
+0.8300000000000001,0.47986649440137813,Umbrella,Humanities
+0.84,0.4837551299589603,Umbrella,Humanities
+0.85,0.4861206110351117,Umbrella,Humanities
+0.86,0.46608527131782945,Umbrella,Humanities
+0.87,0.48204514363885087,Umbrella,Humanities
+0.88,0.49316005471956226,Umbrella,Humanities
+0.89,0.4931262112403101,Umbrella,Humanities
+0.9,0.5024547803617571,Umbrella,Humanities
+0.91,0.5095284237726099,Umbrella,Humanities
+0.92,0.5078326873385013,Umbrella,Humanities
+0.93,0.501937984496124,Umbrella,Humanities
+0.9400000000000001,0.5146425495262704,Umbrella,Humanities
+0.9500000000000001,0.5325218023255814,Umbrella,Humanities
+0.96,0.5373667635658915,Umbrella,Humanities
+0.97,0.5159076227390181,Umbrella,Humanities
+0.98,0.49631782945736436,Umbrella,Humanities
+0.99,0.49631782945736436,Umbrella,Humanities
+1.0,0.5027454780361758,Umbrella,Humanities
+0.0,0.4111459968602826,Umbrella,Mathematics and Computing
+0.01,0.4101587301587301,Umbrella,Mathematics and Computing
+0.02,0.4069538926681784,Umbrella,Mathematics and Computing
+0.03,0.4080272108843538,Umbrella,Mathematics and Computing
+0.04,0.4098948670377241,Umbrella,Mathematics and Computing
+0.05,0.4151077097505668,Umbrella,Mathematics and Computing
+0.06,0.41476757369614514,Umbrella,Mathematics and Computing
+0.07,0.41736054421768704,Umbrella,Mathematics and Computing
+0.08,0.417063492063492,Umbrella,Mathematics and Computing
+0.09,0.42046258503401357,Umbrella,Mathematics and Computing
+0.1,0.4203231292517007,Umbrella,Mathematics and Computing
+0.11,0.4239455782312925,Umbrella,Mathematics and Computing
+0.12,0.42831632653061225,Umbrella,Mathematics and Computing
+0.13,0.4280895691609977,Umbrella,Mathematics and Computing
+0.14,0.4309659863945578,Umbrella,Mathematics and Computing
+0.15,0.43021541950113373,Umbrella,Mathematics and Computing
+0.16,0.4359183673469388,Umbrella,Mathematics and Computing
+0.17,0.4387755102040816,Umbrella,Mathematics and Computing
+0.18,0.4411156462585034,Umbrella,Mathematics and Computing
+0.19,0.4461734693877551,Umbrella,Mathematics and Computing
+0.2,0.4484977324263038,Umbrella,Mathematics and Computing
+0.21,0.4523809523809524,Umbrella,Mathematics and Computing
+0.22,0.4557823129251701,Umbrella,Mathematics and Computing
+0.23,0.45986394557823135,Umbrella,Mathematics and Computing
+0.24,0.4623866213151927,Umbrella,Mathematics and Computing
+0.25,0.4664217687074829,Umbrella,Mathematics and Computing
+0.26,0.46816893424036277,Umbrella,Mathematics and Computing
+0.27,0.47186394557823136,Umbrella,Mathematics and Computing
+0.28,0.47463151927437636,Umbrella,Mathematics and Computing
+0.29,0.47304421768707483,Umbrella,Mathematics and Computing
+0.3,0.47769274376417237,Umbrella,Mathematics and Computing
+0.31,0.4785714285714286,Umbrella,Mathematics and Computing
+0.32,0.48106122448979594,Umbrella,Mathematics and Computing
+0.33,0.4828231292517007,Umbrella,Mathematics and Computing
+0.34,0.48416326530612247,Umbrella,Mathematics and Computing
+0.35000000000000003,0.4829365079365079,Umbrella,Mathematics and Computing
+0.36,0.48089795918367345,Umbrella,Mathematics and Computing
+0.37,0.48404195011337875,Umbrella,Mathematics and Computing
+0.38,0.487046485260771,Umbrella,Mathematics and Computing
+0.39,0.49219047619047623,Umbrella,Mathematics and Computing
+0.4,0.49160997732426304,Umbrella,Mathematics and Computing
+0.41000000000000003,0.49319727891156456,Umbrella,Mathematics and Computing
+0.42,0.4939342403628118,Umbrella,Mathematics and Computing
+0.43,0.49937414965986393,Umbrella,Mathematics and Computing
+0.44,0.5011054421768707,Umbrella,Mathematics and Computing
+0.45,0.5025793650793651,Umbrella,Mathematics and Computing
+0.46,0.5066326530612245,Umbrella,Mathematics and Computing
+0.47000000000000003,0.5045351473922902,Umbrella,Mathematics and Computing
+0.48,0.5037278911564625,Umbrella,Mathematics and Computing
+0.49,0.5018041999408459,Umbrella,Mathematics and Computing
+0.5,0.5056972789115646,Umbrella,Mathematics and Computing
+0.51,0.5082224194025435,Umbrella,Mathematics and Computing
+0.52,0.5098195800059153,Umbrella,Mathematics and Computing
+0.53,0.5178107606679035,Umbrella,Mathematics and Computing
+0.54,0.5192949907235621,Umbrella,Mathematics and Computing
+0.55,0.5255442176870749,Umbrella,Mathematics and Computing
+0.56,0.53078231292517,Umbrella,Mathematics and Computing
+0.5700000000000001,0.536530612244898,Umbrella,Mathematics and Computing
+0.58,0.5421768707482992,Umbrella,Mathematics and Computing
+0.59,0.5473275024295432,Umbrella,Mathematics and Computing
+0.6,0.5580612244897959,Umbrella,Mathematics and Computing
+0.61,0.573265306122449,Umbrella,Mathematics and Computing
+0.62,0.5747959183673469,Umbrella,Mathematics and Computing
+0.63,0.5705442176870749,Umbrella,Mathematics and Computing
+0.64,0.5712342079689019,Umbrella,Mathematics and Computing
+0.65,0.572665429808287,Umbrella,Mathematics and Computing
+0.66,0.5716947648624667,Umbrella,Mathematics and Computing
+0.67,0.5724046140195208,Umbrella,Mathematics and Computing
+0.68,0.585969387755102,Umbrella,Mathematics and Computing
+0.6900000000000001,0.5894114167406093,Umbrella,Mathematics and Computing
+0.7000000000000001,0.5866213151927437,Umbrella,Mathematics and Computing
+0.71,0.5738095238095238,Umbrella,Mathematics and Computing
+0.72,0.5782312925170068,Umbrella,Mathematics and Computing
+0.73,0.5764625850340136,Umbrella,Mathematics and Computing
+0.74,0.5843820861678005,Umbrella,Mathematics and Computing
+0.75,0.5965986394557824,Umbrella,Mathematics and Computing
+0.76,0.6041383219954649,Umbrella,Mathematics and Computing
+0.77,0.6118367346938776,Umbrella,Mathematics and Computing
+0.78,0.6058390022675737,Umbrella,Mathematics and Computing
+0.79,0.6031943212067435,Umbrella,Mathematics and Computing
+0.8,0.6075125702454894,Umbrella,Mathematics and Computing
+0.81,0.616533569949719,Umbrella,Mathematics and Computing
+0.8200000000000001,0.6210034013605442,Umbrella,Mathematics and Computing
+0.8300000000000001,0.629251700680272,Umbrella,Mathematics and Computing
+0.84,0.6316893424036282,Umbrella,Mathematics and Computing
+0.85,0.6286305826678498,Umbrella,Mathematics and Computing
+0.86,0.6417800453514739,Umbrella,Mathematics and Computing
+0.87,0.6420841063698207,Umbrella,Mathematics and Computing
+0.88,0.6463203463203463,Umbrella,Mathematics and Computing
+0.89,0.6513443472627146,Umbrella,Mathematics and Computing
+0.9,0.656991685563114,Umbrella,Mathematics and Computing
+0.91,0.6590325018896447,Umbrella,Mathematics and Computing
+0.92,0.659608843537415,Umbrella,Mathematics and Computing
+0.93,0.6636540330417882,Umbrella,Mathematics and Computing
+0.9400000000000001,0.6687074829931973,Umbrella,Mathematics and Computing
+0.9500000000000001,0.6678004535147393,Umbrella,Mathematics and Computing
+0.96,0.6352607709750566,Umbrella,Mathematics and Computing
+0.97,0.6319727891156464,Umbrella,Mathematics and Computing
+0.98,0.6190476190476191,Umbrella,Mathematics and Computing
+0.99,0.6190476190476191,Umbrella,Mathematics and Computing
+1.0,0.6190476190476191,Umbrella,Mathematics and Computing
+0.0,0.5151885289431757,Umbrella,Medicine and Health
+0.01,0.516291274874262,Umbrella,Medicine and Health
+0.02,0.5179416943846605,Umbrella,Medicine and Health
+0.03,0.5131801284217641,Umbrella,Medicine and Health
+0.04,0.514438661710037,Umbrella,Medicine and Health
+0.05,0.518558764655419,Umbrella,Medicine and Health
+0.06,0.5166735508742943,Umbrella,Medicine and Health
+0.07,0.5154343935013079,Umbrella,Medicine and Health
+0.08,0.5210752073205605,Umbrella,Medicine and Health
+0.09,0.5240809582817018,Umbrella,Medicine and Health
+0.1,0.5260636100784799,Umbrella,Medicine and Health
+0.11,0.5253074063482985,Umbrella,Medicine and Health
+0.12,0.5327275230620955,Umbrella,Medicine and Health
+0.13,0.5410987195373812,Umbrella,Medicine and Health
+0.14,0.5397769516728623,Umbrella,Medicine and Health
+0.15,0.5354812061131764,Umbrella,Medicine and Health
+0.16,0.5369406581302492,Umbrella,Medicine and Health
+0.17,0.5406920217329139,Umbrella,Medicine and Health
+0.18,0.5365826793336087,Umbrella,Medicine and Health
+0.19,0.539253751893157,Umbrella,Medicine and Health
+0.2,0.5375750643408636,Umbrella,Medicine and Health
+0.21,0.5416769929781082,Umbrella,Medicine and Health
+0.22,0.5331956491807792,Umbrella,Medicine and Health
+0.23,0.5283216301803663,Umbrella,Medicine and Health
+0.24,0.533526091146909,Umbrella,Medicine and Health
+0.25,0.5364725320115654,Umbrella,Medicine and Health
+0.26,0.5374638579099544,Umbrella,Medicine and Health
+0.27,0.5363348478590114,Umbrella,Medicine and Health
+0.28,0.5383174996557896,Umbrella,Medicine and Health
+0.29,0.5387030152829408,Umbrella,Medicine and Health
+0.3,0.5400629110666285,Umbrella,Medicine and Health
+0.31,0.5439900867410161,Umbrella,Medicine and Health
+0.32,0.5528018725044748,Umbrella,Medicine and Health
+0.33,0.5546182442093222,Umbrella,Medicine and Health
+0.34,0.5539584193859286,Umbrella,Medicine and Health
+0.35000000000000003,0.556491807792923,Umbrella,Medicine and Health
+0.36,0.5570203031169573,Umbrella,Medicine and Health
+0.37,0.5571526917251823,Umbrella,Medicine and Health
+0.38,0.5593281013355362,Umbrella,Medicine and Health
+0.39,0.5588504432370602,Umbrella,Medicine and Health
+0.4,0.5567121024370094,Umbrella,Medicine and Health
+0.41000000000000003,0.5593281013355362,Umbrella,Medicine and Health
+0.42,0.5558478696025164,Umbrella,Medicine and Health
+0.43,0.5614484372848684,Umbrella,Medicine and Health
+0.44,0.5624122263527467,Umbrella,Medicine and Health
+0.45,0.5677437803831855,Umbrella,Medicine and Health
+0.46,0.5695718022855568,Umbrella,Medicine and Health
+0.47000000000000003,0.5743632107944373,Umbrella,Medicine and Health
+0.48,0.5777227041167562,Umbrella,Medicine and Health
+0.49,0.5824590389646152,Umbrella,Medicine and Health
+0.5,0.583615585846069,Umbrella,Medicine and Health
+0.51,0.5803937766763045,Umbrella,Medicine and Health
+0.52,0.5794299876084262,Umbrella,Medicine and Health
+0.53,0.5784937353710589,Umbrella,Medicine and Health
+0.54,0.5794850612694478,Umbrella,Medicine and Health
+0.55,0.5734915641978838,Umbrella,Medicine and Health
+0.56,0.5741429161503511,Umbrella,Medicine and Health
+0.5700000000000001,0.5711414016246729,Umbrella,Medicine and Health
+0.58,0.5724621103803259,Umbrella,Medicine and Health
+0.59,0.5715819909128459,Umbrella,Medicine and Health
+0.6,0.5730965165909403,Umbrella,Medicine and Health
+0.61,0.5762367743780382,Umbrella,Medicine and Health
+0.62,0.5813575657441828,Umbrella,Medicine and Health
+0.63,0.5814401762357153,Umbrella,Medicine and Health
+0.64,0.5819273663139833,Umbrella,Medicine and Health
+0.65,0.5843590802698609,Umbrella,Medicine and Health
+0.66,0.5863968057276607,Umbrella,Medicine and Health
+0.67,0.5925936517014583,Umbrella,Medicine and Health
+0.68,0.5926201294231033,Umbrella,Medicine and Health
+0.6900000000000001,0.5971637064573866,Umbrella,Medicine and Health
+0.7000000000000001,0.600578273440727,Umbrella,Medicine and Health
+0.71,0.6022580201018861,Umbrella,Medicine and Health
+0.72,0.6068015971361694,Umbrella,Medicine and Health
+0.73,0.6125843315434392,Umbrella,Medicine and Health
+0.74,0.6164394878149524,Umbrella,Medicine and Health
+0.75,0.6199642021203359,Umbrella,Medicine and Health
+0.76,0.619220707696544,Umbrella,Medicine and Health
+0.77,0.6183395291201983,Umbrella,Medicine and Health
+0.78,0.6204598650695304,Umbrella,Medicine and Health
+0.79,0.6226628115103952,Umbrella,Medicine and Health
+0.8,0.623734629682585,Umbrella,Medicine and Health
+0.81,0.6300977557483133,Umbrella,Medicine and Health
+0.8200000000000001,0.6270411675616135,Umbrella,Medicine and Health
+0.8300000000000001,0.6253645982270517,Umbrella,Medicine and Health
+0.84,0.622938179815503,Umbrella,Medicine and Health
+0.85,0.6261875258157785,Umbrella,Medicine and Health
+0.86,0.6280812124678294,Umbrella,Medicine and Health
+0.87,0.6364863004268208,Umbrella,Medicine and Health
+0.88,0.6466473908853089,Umbrella,Medicine and Health
+0.89,0.6464112096082356,Umbrella,Medicine and Health
+0.9,0.6483546743769791,Umbrella,Medicine and Health
+0.91,0.6481619165634035,Umbrella,Medicine and Health
+0.92,0.6557048899056332,Umbrella,Medicine and Health
+0.93,0.6747349580063335,Umbrella,Medicine and Health
+0.9400000000000001,0.6904489562482128,Umbrella,Medicine and Health
+0.9500000000000001,0.6984820322180917,Umbrella,Medicine and Health
+0.96,0.7067928354173706,Umbrella,Medicine and Health
+0.97,0.7081197417335159,Umbrella,Medicine and Health
+0.98,0.7080855018587361,Umbrella,Medicine and Health
+0.99,0.7170472650026553,Umbrella,Medicine and Health
+1.0,0.7373436971949984,Umbrella,Medicine and Health
+0.0,0.4652396878483835,Umbrella,Natural Sciences
+0.01,0.46625789669267925,Umbrella,Natural Sciences
+0.02,0.46755852842809353,Umbrella,Natural Sciences
+0.03,0.4728539576365663,Umbrella,Natural Sciences
+0.04,0.47828564350303476,Umbrella,Natural Sciences
+0.05,0.4850882251182101,Umbrella,Natural Sciences
+0.06,0.48767001114827196,Umbrella,Natural Sciences
+0.07,0.48838350055741353,Umbrella,Natural Sciences
+0.08,0.4923968784838349,Umbrella,Natural Sciences
+0.09,0.4951616499442586,Umbrella,Natural Sciences
+0.1,0.49752508361204006,Umbrella,Natural Sciences
+0.11,0.5033667781493868,Umbrella,Natural Sciences
+0.12,0.5058416945373467,Umbrella,Natural Sciences
+0.13,0.5062653288740245,Umbrella,Natural Sciences
+0.14,0.5090523968784839,Umbrella,Natural Sciences
+0.15,0.5065774804905239,Umbrella,Natural Sciences
+0.16,0.5102341137123745,Umbrella,Natural Sciences
+0.17,0.5161426978818282,Umbrella,Natural Sciences
+0.18,0.5161204013377926,Umbrella,Natural Sciences
+0.19,0.5191081382385729,Umbrella,Natural Sciences
+0.2,0.523010033444816,Umbrella,Natural Sciences
+0.21,0.5252173913043477,Umbrella,Natural Sciences
+0.22,0.5297658862876253,Umbrella,Natural Sciences
+0.23,0.5319063545150502,Umbrella,Natural Sciences
+0.24,0.5263991081382386,Umbrella,Natural Sciences
+0.25,0.5313935340022296,Umbrella,Natural Sciences
+0.26,0.5305239687848383,Umbrella,Natural Sciences
+0.27,0.5330434782608695,Umbrella,Natural Sciences
+0.28,0.5412709030100333,Umbrella,Natural Sciences
+0.29,0.5425863991081381,Umbrella,Natural Sciences
+0.3,0.5467558528428093,Umbrella,Natural Sciences
+0.31,0.5498773690078037,Umbrella,Natural Sciences
+0.32,0.5550947603121517,Umbrella,Natural Sciences
+0.33,0.5558974358974359,Umbrella,Natural Sciences
+0.34,0.565195094760312,Umbrella,Natural Sciences
+0.35000000000000003,0.5654626532887401,Umbrella,Natural Sciences
+0.36,0.5713489409141583,Umbrella,Natural Sciences
+0.37,0.5683835005574136,Umbrella,Natural Sciences
+0.38,0.566020066889632,Umbrella,Natural Sciences
+0.39,0.5677591973244146,Umbrella,Natural Sciences
+0.4,0.5671348940914158,Umbrella,Natural Sciences
+0.41000000000000003,0.5666443701226309,Umbrella,Natural Sciences
+0.42,0.5634336677814937,Umbrella,Natural Sciences
+0.43,0.5657748049052396,Umbrella,Natural Sciences
+0.44,0.5639464882943143,Umbrella,Natural Sciences
+0.45,0.5649175412293852,Umbrella,Natural Sciences
+0.46,0.564756083496713,Umbrella,Natural Sciences
+0.47000000000000003,0.5703379079690923,Umbrella,Natural Sciences
+0.48,0.5713989159266519,Umbrella,Natural Sciences
+0.49,0.5703609733594741,Umbrella,Natural Sciences
+0.5,0.5732210817668089,Umbrella,Natural Sciences
+0.51,0.5737746511359704,Umbrella,Natural Sciences
+0.52,0.5776957675008648,Umbrella,Natural Sciences
+0.53,0.5797255218544572,Umbrella,Natural Sciences
+0.54,0.5823780417483564,Umbrella,Natural Sciences
+0.55,0.5825856302617921,Umbrella,Natural Sciences
+0.56,0.5829208472686733,Umbrella,Natural Sciences
+0.5700000000000001,0.5843701226309921,Umbrella,Natural Sciences
+0.58,0.5867335562987736,Umbrella,Natural Sciences
+0.59,0.5904739937723444,Umbrella,Natural Sciences
+0.6,0.5938184753776956,Umbrella,Natural Sciences
+0.61,0.5947410909929649,Umbrella,Natural Sciences
+0.62,0.593357167570061,Umbrella,Natural Sciences
+0.63,0.5949717448967822,Umbrella,Natural Sciences
+0.64,0.5958671763019587,Umbrella,Natural Sciences
+0.65,0.5981605351170568,Umbrella,Natural Sciences
+0.66,0.597658862876254,Umbrella,Natural Sciences
+0.67,0.6000238891543239,Umbrella,Natural Sciences
+0.68,0.6026994744386048,Umbrella,Natural Sciences
+0.6900000000000001,0.6017529696690116,Umbrella,Natural Sciences
+0.7000000000000001,0.6014761849844307,Umbrella,Natural Sciences
+0.71,0.601799100449775,Umbrella,Natural Sciences
+0.72,0.6026755852842809,Umbrella,Natural Sciences
+0.73,0.6086725867835312,Umbrella,Natural Sciences
+0.74,0.6084503901895204,Umbrella,Natural Sciences
+0.75,0.6107246376811593,Umbrella,Natural Sciences
+0.76,0.6189520624303232,Umbrella,Natural Sciences
+0.77,0.6176142697881828,Umbrella,Natural Sciences
+0.78,0.6171145196632453,Umbrella,Natural Sciences
+0.79,0.6292469150040364,Umbrella,Natural Sciences
+0.8,0.6360248447204968,Umbrella,Natural Sciences
+0.81,0.6377926421404682,Umbrella,Natural Sciences
+0.8200000000000001,0.6521022455805063,Umbrella,Natural Sciences
+0.8300000000000001,0.6532728141423794,Umbrella,Natural Sciences
+0.84,0.6595078834209267,Umbrella,Natural Sciences
+0.85,0.6685857620640229,Umbrella,Natural Sciences
+0.86,0.6775680840898232,Umbrella,Natural Sciences
+0.87,0.6898948877209747,Umbrella,Natural Sciences
+0.88,0.696816548990462,Umbrella,Natural Sciences
+0.89,0.6930261365043973,Umbrella,Natural Sciences
+0.9,0.691280458671763,Umbrella,Natural Sciences
+0.91,0.7040905582711602,Umbrella,Natural Sciences
+0.92,0.6998795986622074,Umbrella,Natural Sciences
+0.93,0.7058891958702922,Umbrella,Natural Sciences
+0.9400000000000001,0.7218346870520783,Umbrella,Natural Sciences
+0.9500000000000001,0.7262453793346241,Umbrella,Natural Sciences
+0.96,0.7225752508361204,Umbrella,Natural Sciences
+0.97,0.7223565731926935,Umbrella,Natural Sciences
+0.98,0.7234671125975475,Umbrella,Natural Sciences
+0.99,0.738610182088443,Umbrella,Natural Sciences
+1.0,0.7685618729096991,Umbrella,Natural Sciences
+0.0,0.34789064879683207,Umbrella,Social Sciences
+0.01,0.34591747146619833,Umbrella,Social Sciences
+0.02,0.34547188867691614,Umbrella,Social Sciences
+0.03,0.3455611552626477,Umbrella,Social Sciences
+0.04,0.3472707889125799,Umbrella,Social Sciences
+0.05,0.346809906511399,Umbrella,Social Sciences
+0.06,0.34671878701729447,Umbrella,Social Sciences
+0.07,0.34920634920634913,Umbrella,Social Sciences
+0.08,0.3521403969165163,Umbrella,Social Sciences
+0.09,0.3510621495696122,Umbrella,Social Sciences
+0.1,0.35424070125562657,Umbrella,Social Sciences
+0.11,0.3569993439396424,Umbrella,Social Sciences
+0.12,0.36077548764115924,Umbrella,Social Sciences
+0.13,0.365197820421701,Umbrella,Social Sciences
+0.14,0.3642160078727242,Umbrella,Social Sciences
+0.15,0.36460554371002124,Umbrella,Social Sciences
+0.16,0.3684948274500513,Umbrella,Social Sciences
+0.17,0.3719657208463178,Umbrella,Social Sciences
+0.18,0.3769248993129589,Umbrella,Social Sciences
+0.19,0.3829266366579798,Umbrella,Social Sciences
+0.2,0.38006396588486135,Umbrella,Social Sciences
+0.21,0.3822356471610202,Umbrella,Social Sciences
+0.22,0.38270946853036397,Umbrella,Social Sciences
+0.23,0.38264720354272586,Umbrella,Social Sciences
+0.24,0.38685540551212183,Umbrella,Social Sciences
+0.25,0.39725973308062856,Umbrella,Social Sciences
+0.26,0.3975520747908807,Umbrella,Social Sciences
+0.27,0.3955026455026454,Umbrella,Social Sciences
+0.28,0.39425886440811814,Umbrella,Social Sciences
+0.29,0.39503034279153676,Umbrella,Social Sciences
+0.3,0.39850351417515595,Umbrella,Social Sciences
+0.31,0.40024085919608304,Umbrella,Social Sciences
+0.32,0.4013039199606363,Umbrella,Social Sciences
+0.33,0.4012674721629945,Umbrella,Social Sciences
+0.34,0.4036958066808813,Umbrella,Social Sciences
+0.35000000000000003,0.39732655404297196,Umbrella,Social Sciences
+0.36,0.40148464029061043,Umbrella,Social Sciences
+0.37,0.40567006238648023,Umbrella,Social Sciences
+0.38,0.40927915368213874,Umbrella,Social Sciences
+0.39,0.40863144594487877,Umbrella,Social Sciences
+0.4,0.41115849324804543,Umbrella,Social Sciences
+0.41000000000000003,0.41309250451041496,Umbrella,Social Sciences
+0.42,0.4135276000947642,Umbrella,Social Sciences
+0.43,0.4174168838347943,Umbrella,Social Sciences
+0.44,0.42278989667049366,Umbrella,Social Sciences
+0.45,0.4300323777935718,Umbrella,Social Sciences
+0.46,0.4304667140488036,Umbrella,Social Sciences
+0.47000000000000003,0.43189273413154006,Umbrella,Social Sciences
+0.48,0.42718944957750926,Umbrella,Social Sciences
+0.49,0.4289465371554923,Umbrella,Social Sciences
+0.5,0.4295965228801049,Umbrella,Social Sciences
+0.51,0.43024954592118764,Umbrella,Social Sciences
+0.52,0.43585643212508873,Umbrella,Social Sciences
+0.53,0.43771526980482206,Umbrella,Social Sciences
+0.54,0.43269762299613046,Umbrella,Social Sciences
+0.55,0.431513069572771,Umbrella,Social Sciences
+0.56,0.4356650811874692,Umbrella,Social Sciences
+0.5700000000000001,0.43818605385769566,Umbrella,Social Sciences
+0.58,0.4428452973229092,Umbrella,Social Sciences
+0.59,0.44720764310316546,Umbrella,Social Sciences
+0.6,0.44799810471452256,Umbrella,Social Sciences
+0.61,0.45005133064834557,Umbrella,Social Sciences
+0.62,0.4481507298671477,Umbrella,Social Sciences
+0.63,0.44724788754639494,Umbrella,Social Sciences
+0.64,0.4516109926557687,Umbrella,Social Sciences
+0.65,0.456043956043956,Umbrella,Social Sciences
+0.66,0.4589142201082499,Umbrella,Social Sciences
+0.67,0.46362965392816136,Umbrella,Social Sciences
+0.68,0.4695735607675906,Umbrella,Social Sciences
+0.6900000000000001,0.467073970805314,Umbrella,Social Sciences
+0.7000000000000001,0.47189191405609304,Umbrella,Social Sciences
+0.71,0.4784648187633262,Umbrella,Social Sciences
+0.72,0.4878218796129243,Umbrella,Social Sciences
+0.73,0.48763736263736257,Umbrella,Social Sciences
+0.74,0.48707889125799564,Umbrella,Social Sciences
+0.75,0.4849311136624569,Umbrella,Social Sciences
+0.76,0.48833214877990994,Umbrella,Social Sciences
+0.77,0.4858848614072494,Umbrella,Social Sciences
+0.78,0.4832294571100541,Umbrella,Social Sciences
+0.79,0.48852878464818755,Umbrella,Social Sciences
+0.8,0.49007196162046895,Umbrella,Social Sciences
+0.81,0.483368869936034,Umbrella,Social Sciences
+0.8200000000000001,0.4855010660980809,Umbrella,Social Sciences
+0.8300000000000001,0.4936922530206111,Umbrella,Social Sciences
+0.84,0.5041755508173418,Umbrella,Social Sciences
+0.85,0.5111940298507462,Umbrella,Social Sciences
+0.86,0.5111213413452218,Umbrella,Social Sciences
+0.87,0.5160358919687278,Umbrella,Social Sciences
+0.88,0.5341817697228144,Umbrella,Social Sciences
+0.89,0.5352044127190135,Umbrella,Social Sciences
+0.9,0.5440344859553164,Umbrella,Social Sciences
+0.91,0.5627301802674936,Umbrella,Social Sciences
+0.92,0.5655650319829423,Umbrella,Social Sciences
+0.93,0.5696162046908315,Umbrella,Social Sciences
+0.9400000000000001,0.5728944562899786,Umbrella,Social Sciences
+0.9500000000000001,0.5827628773426101,Umbrella,Social Sciences
+0.96,0.58789038003261,Umbrella,Social Sciences
+0.97,0.6004797441364605,Umbrella,Social Sciences
+0.98,0.593380500096918,Umbrella,Social Sciences
+0.99,0.6070895522388059,Umbrella,Social Sciences
+1.0,0.607276119402985,Umbrella,Social Sciences

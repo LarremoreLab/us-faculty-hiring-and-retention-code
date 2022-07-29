@@ -1,0 +1,187 @@
+Taxonomy,Area,Umbrella
+"Humanities",,Humanities
+"Performing and Visual Arts, various",Arts,Humanities
+"Music",Arts,Humanities
+Music specialties,Arts,Humanities
+History,History,Humanities
+"Culture Studies, various","Language, Literature, Culture",Humanities
+Ancient Studies,"Language, Literature, Culture",Humanities
+American Studies,"Language, Literature, Culture",Humanities
+Asian Studies,"Language, Literature, Culture",Humanities
+European Studies,"Language, Literature, Culture",Humanities
+English Language and Literature,"Language, Literature, Culture",Humanities
+Art History and Criticism,"Language, Literature, Culture",Humanities
+Comparative Literature,"Language, Literature, Culture",Humanities
+"Composition, Rhetoric, Writing","Language, Literature, Culture",Humanities
+"Theatre Literature, History and Criticism","Language, Literature, Culture",Humanities
+"Languages, various","Language, Literature, Culture",Humanities
+Asian Languages,"Language, Literature, Culture",Humanities
+Classics and Classical Languages,"Language, Literature, Culture",Humanities
+French Language and Literature,"Language, Literature, Culture",Humanities
+Germanic Languages and Literatures,"Language, Literature, Culture",Humanities
+Italian Language and Literature,"Language, Literature, Culture",Humanities
+Near and Middle Eastern Languages and Cultures,"Language, Literature, Culture",Humanities
+Slavic Languages and Literatures,"Language, Literature, Culture",Humanities
+Spanish Language and Literature,"Language, Literature, Culture",Humanities
+Linguistics,Linguistics,Humanities
+Philosophy,Philosophy,Humanities
+Religious Studies,Theology and Religion,Humanities
+Theological Studies,Theology and Religion,Humanities
+Law,Law,Law
+"Social Sciences, various",,Social Sciences
+Anthropology,Anthropology,Social Sciences
+"Economics",Economics,Social Sciences
+Applied Economics,Economics,Social Sciences
+Agricultural Economics,Economics,Social Sciences
+Geography,Geography,Social Sciences
+Gender Studies,Gender Studies,Social Sciences
+Political Science,Political Science,Social Sciences
+International Affairs,Political Science,Social Sciences
+"Psychology",Psychological Sciences,Social Sciences
+"Psychology, various",Psychological Sciences,Social Sciences
+Clinical Psychology,Psychological Sciences,Social Sciences
+Counseling Psychology,Psychological Sciences,Social Sciences
+Educational Psychology,Psychological Sciences,Social Sciences
+School Psychology,Psychological Sciences,Social Sciences
+Neuroscience,Psychological Sciences,Social Sciences
+Cognitive Science,Psychological Sciences,Social Sciences
+Sociology,Sociology,Social Sciences
+Criminal Justice and Criminology,Sociology,Social Sciences
+"Biological Sciences",Biological Sciences,Natural Sciences
+"Biological Sciences, various",Biological Sciences,Natural Sciences
+"Biomedical Sciences",Biological Sciences,Natural Sciences
+"Biomedical Sciences, various",Biological Sciences,Natural Sciences
+Anatomy,Biological Sciences,Natural Sciences
+Biochemistry,Biological Sciences,Natural Sciences
+Biophysics,Biological Sciences,Natural Sciences
+Structural Biology,Biological Sciences,Natural Sciences
+Computational Biology,Biological Sciences,Natural Sciences
+Biostatistics,Biological Sciences,Natural Sciences
+Ecology,Biological Sciences,Natural Sciences
+Evolutionary Biology,Biological Sciences,Natural Sciences
+Developmental Biology,Biological Sciences,Natural Sciences
+Entomology,Biological Sciences,Natural Sciences
+Cell Biology,Biological Sciences,Natural Sciences
+Microbiology,Biological Sciences,Natural Sciences
+Molecular Biology,Biological Sciences,Natural Sciences
+Neuroscience,Biological Sciences,Natural Sciences
+Cognitive Science,Biological Sciences,Natural Sciences
+Zoology,Biological Sciences,Natural Sciences
+Plant Biology,Biological Sciences,Natural Sciences
+Pathology,Biological Sciences,Natural Sciences
+Plant Pathology,Biological Sciences,Natural Sciences
+Biomedical Engineering,Biological Sciences,Natural Sciences
+Chemistry,Chemical Sciences,Natural Sciences
+"Chemical Sciences, various",Chemical Sciences,Natural Sciences
+Biochemistry,Chemical Sciences,Natural Sciences
+Biophysics,Chemical Sciences,Natural Sciences
+Structural Biology,Chemical Sciences,Natural Sciences
+Chemical Engineering,Chemical Sciences,Natural Sciences
+Geology,Earth Sciences,Natural Sciences
+Geological Engineering,Earth Sciences,Natural Sciences
+Geophysics,Earth Sciences,Natural Sciences
+Oceanography,Earth Sciences,Natural Sciences
+Environmental Sciences,Earth Sciences,Natural Sciences
+Fisheries Science,Earth Sciences,Natural Sciences
+Forestry and Forest Resources,Earth Sciences,Natural Sciences
+Marine Sciences,Earth Sciences,Natural Sciences
+Natural Resources,Earth Sciences,Natural Sciences
+Wildlife Science,Earth Sciences,Natural Sciences
+"Physics",Physical Sciences,Natural Sciences
+Geophysics,Physical Sciences,Natural Sciences
+Applied Physics,Physical Sciences,Natural Sciences
+Astronomy,Physical Sciences,Natural Sciences
+Atmospheric Sciences and Meteorology,Physical Sciences,Natural Sciences
+"Computational Sciences",Computational Sciences,Mathematics and Computing
+"Computational Sciences, various",Computational Sciences,Mathematics and Computing
+Computer Science,Computational Sciences,Mathematics and Computing
+Computer Engineering,Computational Sciences,Mathematics and Computing
+Computational Biology,Computational Sciences,Mathematics and Computing
+Information Science,Computational Sciences,Mathematics and Computing
+Information Technology,Computational Sciences,Mathematics and Computing
+Mathematics,Mathematical Sciences,Mathematics and Computing
+Applied Mathematics,Mathematical Sciences,Mathematics and Computing
+Statistics,Mathematical Sciences,Mathematics and Computing
+Biostatistics,Mathematical Sciences,Mathematics and Computing
+"Agriculture, various",Agriculture,Applied Sciences
+Agricultural Economics,Agriculture,Applied Sciences
+Agricultural Engineering,Agriculture,Applied Sciences
+Animal Sciences,Agriculture,Applied Sciences
+Agronomy,Agriculture,Applied Sciences
+Horticulture,Agriculture,Applied Sciences
+Plant Sciences,Agriculture,Applied Sciences
+Soil Science,Agriculture,Applied Sciences
+Food Science,Agriculture,Applied Sciences
+"Architecture, Design, Planning, various","Architecture, Design, Planning",Applied Sciences
+Architecture,"Architecture, Design, Planning",Applied Sciences
+Urban and Regional Planning,"Architecture, Design, Planning",Applied Sciences
+"Business, various",Business,Applied Sciences
+Accounting,Business,Applied Sciences
+Business Administration,Business,Applied Sciences
+Finance,Business,Applied Sciences
+Management,Business,Applied Sciences
+Management Information Systems,Business,Applied Sciences
+Marketing,Business,Applied Sciences
+"Health Professions, various",Health,Medicine and Health
+"Consumer Sciences, various",Health,Medicine and Health
+"Human Development and Family Sciences",Health,Medicine and Health
+"Human Development and Family Sciences, various",Health,Medicine and Health
+Communication Disorders and Sciences,Health,Medicine and Health
+Speech and Hearing Sciences,Health,Medicine and Health
+Nursing,Health,Medicine and Health
+"Exercise Science, Kinesiology, Rehab, Health",Health,Medicine and Health
+"Health, Physical Education, Recreation",Health,Medicine and Health
+Nutrition Sciences,Health,Medicine and Health
+Public Health,Health,Medicine and Health
+Environmental Health Sciences,Health,Medicine and Health
+Social Work,Health,Medicine and Health
+"Medical Sciences, various",Medical Sciences,Medicine and Health
+Epidemiology,Medical Sciences,Medicine and Health
+Genetics,Medical Sciences,Medicine and Health
+Medical Genetics,Medical Sciences,Medicine and Health
+Molecular Genetics,Medical Sciences,Medicine and Health
+Immunology,Medical Sciences,Medicine and Health
+Pharmacology,Medical Sciences,Medicine and Health
+Pharmacy,Medical Sciences,Medicine and Health
+Molecular Pharmacology,Medical Sciences,Medicine and Health
+Oncology,Medical Sciences,Medicine and Health
+Oral Biology and Craniofacial Science,Medical Sciences,Medicine and Health
+Pharmaceutical Sciences,Medical Sciences,Medicine and Health
+Physiology,Medical Sciences,Medicine and Health
+Toxicology,Medical Sciences,Medicine and Health
+Veterinary Medical Sciences,Medical Sciences,Medicine and Health
+"Engineering",Engineering,Engineering
+"Engineering, various",Engineering,Engineering
+Engineering Mechanics,Engineering,Engineering
+Aerospace Engineering,Engineering,Engineering
+Agricultural Engineering,Engineering,Engineering
+Biomedical Engineering,Engineering,Engineering
+Chemical Engineering,Engineering,Engineering
+Civil Engineering,Engineering,Engineering
+Electrical Engineering,Engineering,Engineering
+Computer Engineering,Engineering,Engineering
+Environmental Engineering,Engineering,Engineering
+Geological Engineering,Engineering,Engineering
+Industrial Engineering,Engineering,Engineering
+Materials Engineering,Engineering,Engineering
+Mechanical Engineering,Engineering,Engineering
+Nuclear Engineering,Engineering,Engineering
+Operations Research,Engineering,Engineering
+Systems Engineering,Engineering,Engineering
+Communication,"Journalism, Media, Communication","Journalism, Media, Communication"
+Mass Communications and Media Studies,"Journalism, Media, Communication","Journalism, Media, Communication"
+Public Administration,Public Administration and Policy,Public Administration and Policy
+Public Policy,Public Administration and Policy,Public Administration and Policy
+"Education",Education,Education
+Curriculum and Instruction,Education,Education
+Foundations of Education,Education,Education
+Education Research,Education,Education
+Educational Psychology,Education,Education
+Education Administration,Education,Education
+Higher Education Administration,Education,Education
+Teacher Education Specific Levels,Education,Education
+Teacher Education Specific Subjects,Education,Education
+Counselor Education,Education,Education
+Mathematics Education,Education,Education
+Science Education,Education,Education
+Special Education,Education,Education
